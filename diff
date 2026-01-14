@@ -24,8 +24,18 @@
 
   <h2>Featured Dishes</h2>
   <ul>
-    <li><a href="dishes/bulalo.html">Bulalo</a></li>
-  </ul>
+  <li><a href="dishes/bulalo.html">Bulalo</a></li>
+  <li><a href="dishes/chicken-tinola.html">Chicken Tinola</a></li>
+  <li><a href="dishes/sinigang.html">Sinigang</a></li>
+  <li><a href="dishes/lugaw.html">Lugaw</a></li>
+  <li><a href="dishes/chicken-inasal.html">Chicken Inasal</a></li>
+  <li><a href="dishes/ginisang-monggo.html">Ginisang Monggo</a></li>
+  <li><a href="dishes/arroz-caldo.html">Arroz Caldo</a></li>
+  <li><a href="dishes/plain-lugaw.html">Plain Lugaw</a></li>
+  <li><a href="dishes/pinakbet.html">Pinakbet</a></li>
+  <li><a href="dishes/tortang-talong.html">Tortang Talong</a></li>
+</ul>
+
 
 </body>
 </html>
