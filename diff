@@ -7,6 +7,7 @@
 <body>
 
   <h1>Purposeful Eating</h1>
+
   <p>
     A growing encyclopedia of Filipino food, organized by purpose,
     to help people choose what to eat with intention.
@@ -21,6 +22,10 @@
     <li>Everyday Balance</li>
   </ul>
 
+  <h2>Featured Dishes</h2>
+  <ul>
+    <li><a href="dishes/bulalo.html">Bulalo</a></li>
+  </ul>
+
 </body>
 </html>
-
