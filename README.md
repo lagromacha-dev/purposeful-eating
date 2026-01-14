@@ -1,1 +1,1 @@
-# purposeful-eating
+# Purposeful Eating
